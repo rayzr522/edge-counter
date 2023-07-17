@@ -4,7 +4,8 @@
     "build": "true"
   },
   "dependencies": {
-    "@vercel/kv": "^0.2.2"
+    "@vercel/kv": "^0.2.2",
+    "@vercel/node": "^2.15.5"
   },
   "devDependencies": {
     "typescript": "^5.1.6"
