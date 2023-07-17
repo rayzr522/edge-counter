@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "true"
+  },
+  "dependencies": {
+    "@vercel/kv": "^0.2.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
