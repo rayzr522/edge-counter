@@ -8,7 +8,7 @@
 - you MUST have a non-empty `public` directory. if you don't actually need anything public, just throw an empty file in there to make Vercel happy. for this project I threw some bare-bones HTML in there.
 - for some reason, Vercel builds report TypeScript errors that simply aren't real. idk why, but the deployment itself works fine.
 - if you want to develop locally (i.e. `vercel dev`), you WILL need to set up a tsconfig. however this isn't technically needed to deploy.
-- execution time doesn't actually seem to be amazing.
+- execution time is around the same as using an edge function in a Next.JS app.
 
 ## setup
 
